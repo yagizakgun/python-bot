@@ -115,39 +115,11 @@ async def get_current_price(client, symbol: str) -> float:
 async def get_historical_data(client, symbol: str, interval: str) -> pd.DataFrame:
     """Get historical klines/candlestick data"""
     try:
-        # Use the async data fetcher for better performance and error handling
         df = await get_historical_data_async(symbol, interval, limit=1000)
         if df.empty:
             logger.error(f"Failed to fetch historical data for {symbol} {interval}")
             return df  # Return the empty DataFrame
-        
-        # async_client = await AsyncClient.create()
-        # # Get the timestamp for start time (e.g., last 1000 candles)
-        # klines = await async_client.get_klines(
-        #     symbol=symbol,
-        #     interval=interval,
-        #     limit=1000
-        # )
-        # await async_client.close_connection()
-        
-        # Create DataFrame
-        df = pd.DataFrame(klines, columns=[
-            'timestamp', 'open', 'high', 'low', 'close', 'volume',
-            'close_time', 'quote_asset_volume', 'number_of_trades',
-            'taker_buy_base_asset_volume', 'taker_buy_quote_asset_volume', 'ignore'
-        ])
-        
-        # Convert timestamp to datetime
-        df['timestamp'] = pd.to_datetime(df['timestamp'], unit='ms')
-        
-        # Convert strings to floats
-        for col in ['open', 'high', 'low', 'close', 'volume']:
-            df[col] = df[col].astype(float)
-            
-        # Calculate indicators
-        # df = calculate_indicators(df, interval) # Already calculated in get_historical_data_async
-        
-        return df
+        return df 
         
     except (BinanceAPIException, aiohttp.ClientError) as e:
         logger.error(f"Error fetching historical data for {symbol} {interval}: {e}")
