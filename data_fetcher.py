@@ -83,26 +83,40 @@ async def get_current_price_async(symbol):
 
 async def get_current_price(client, symbol: str) -> float:
     """Get current price for a symbol"""
-    try:
-        async_client = await AsyncClient.create()
+    
+    # Prioritize using the Binance client
+    async_client = await AsyncClient.create()  
+    try: 
         ticker = await async_client.get_symbol_ticker(symbol=symbol)
-        await async_client.close_connection()
+        await async_client.close_connection() 
         return float(ticker['price'])
+    except BinanceAPIException as e:
+        logger.error(f"Binance API error fetching current price for {symbol}: {e}")
     except Exception as e:
-        logger.error(f"Error fetching current price: {str(e)}")
-        return None
+        logger.error(f"Unexpected error fetching current price for {symbol} using Binance client: {e}")
+    finally:
+        await async_client.close_connection() 
+
+    # Fallback to aiohttp if Binance client fails
+    return await get_current_price_async(symbol) 
 
 async def get_historical_data(client, symbol: str, interval: str) -> pd.DataFrame:
     """Get historical klines/candlestick data"""
     try:
-        async_client = await AsyncClient.create()
-        # Get the timestamp for start time (e.g., last 100 candles)
-        klines = await async_client.get_klines(
-            symbol=symbol,
-            interval=interval,
-            limit=100
-        )
-        await async_client.close_connection()
+        # Use the async data fetcher for better performance and error handling
+        df = await get_historical_data_async(symbol, interval, limit=1000)
+        if df.empty:
+            logger.error(f"Failed to fetch historical data for {symbol} {interval}")
+            return df  # Return the empty DataFrame
+        
+        # async_client = await AsyncClient.create()
+        # # Get the timestamp for start time (e.g., last 1000 candles)
+        # klines = await async_client.get_klines(
+        #     symbol=symbol,
+        #     interval=interval,
+        #     limit=1000
+        # )
+        # await async_client.close_connection()
         
         # Create DataFrame
         df = pd.DataFrame(klines, columns=[
@@ -119,11 +133,11 @@ async def get_historical_data(client, symbol: str, interval: str) -> pd.DataFram
             df[col] = df[col].astype(float)
             
         # Calculate indicators
-        df = calculate_indicators(df, interval)
+        # df = calculate_indicators(df, interval) # Already calculated in get_historical_data_async
         
         return df
         
-    except Exception as e:
-        logger.error(f"Error fetching historical data: {str(e)}")
-        return pd.DataFrame()
+    except (BinanceAPIException, aiohttp.ClientError) as e:
+        logger.error(f"Error fetching historical data for {symbol} {interval}: {e}")
+        return pd.DataFrame()  # Return empty DataFrame on error
 
