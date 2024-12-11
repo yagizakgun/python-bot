@@ -1,0 +1,480 @@
+2024-12-11 00:00:29,877 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:00:29,878 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.01)
+2024-12-11 00:00:29,889 | TradingBot | INFO | Next check time: 2024-12-11 00:01:29
+2024-12-11 00:01:32,648 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:01:32,649 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.02)
+2024-12-11 00:01:32,659 | TradingBot | INFO | Next check time: 2024-12-11 00:02:32
+2024-12-11 00:02:34,743 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:02:34,745 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:02:34,754 | TradingBot | INFO | Next check time: 2024-12-11 00:03:34
+2024-12-11 00:03:15,989 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:03:15,990 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:03:16,001 | TradingBot | INFO | Next check time: 2024-12-11 00:04:16
+2024-12-11 00:04:17,939 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:04:17,940 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:04:17,951 | TradingBot | INFO | Next check time: 2024-12-11 00:05:17
+2024-12-11 00:05:19,839 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:05:19,839 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.02)
+2024-12-11 00:05:19,850 | TradingBot | INFO | Next check time: 2024-12-11 00:06:19
+2024-12-11 00:06:21,671 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:06:21,671 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.04)
+2024-12-11 00:06:21,683 | TradingBot | INFO | Next check time: 2024-12-11 00:07:21
+2024-12-11 00:07:23,918 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:07:23,918 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.04)
+2024-12-11 00:07:23,929 | TradingBot | INFO | Next check time: 2024-12-11 00:08:23
+2024-12-11 00:07:56,082 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:07:56,083 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.05)
+2024-12-11 00:07:56,093 | TradingBot | INFO | Next check time: 2024-12-11 00:08:56
+2024-12-11 00:08:57,973 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:08:57,974 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.06)
+2024-12-11 00:08:57,984 | TradingBot | INFO | Next check time: 2024-12-11 00:09:57
+2024-12-11 00:09:59,988 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:09:59,988 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:09:59,999 | TradingBot | INFO | Next check time: 2024-12-11 00:10:59
+2024-12-11 00:10:26,616 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:10:26,617 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:10:26,627 | TradingBot | INFO | Next check time: 2024-12-11 00:11:26
+2024-12-11 00:11:35,009 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:11:35,010 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.01)
+2024-12-11 00:11:35,022 | TradingBot | INFO | Next check time: 2024-12-11 00:12:35
+2024-12-11 00:12:14,186 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:12:14,187 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:12:14,195 | TradingBot | INFO | Next check time: 2024-12-11 00:13:14
+2024-12-11 00:13:16,917 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:13:16,918 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.04)
+2024-12-11 00:13:16,929 | TradingBot | INFO | Next check time: 2024-12-11 00:14:16
+2024-12-11 00:14:18,520 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:14:18,522 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.04)
+2024-12-11 00:14:18,532 | TradingBot | INFO | Next check time: 2024-12-11 00:15:18
+2024-12-11 00:15:19,999 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:15:19,999 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.04)
+2024-12-11 00:15:20,008 | TradingBot | INFO | Next check time: 2024-12-11 00:16:20
+2024-12-11 00:16:21,429 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:16:21,430 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.04)
+2024-12-11 00:16:21,438 | TradingBot | INFO | Next check time: 2024-12-11 00:17:21
+2024-12-11 00:17:23,016 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:17:23,017 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:17:23,026 | TradingBot | INFO | Next check time: 2024-12-11 00:18:23
+2024-12-11 00:18:29,442 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:18:29,443 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.01)
+2024-12-11 00:18:29,453 | TradingBot | INFO | Next check time: 2024-12-11 00:19:29
+2024-12-11 00:19:31,060 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:19:31,060 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.00)
+2024-12-11 00:19:31,069 | TradingBot | INFO | Next check time: 2024-12-11 00:20:31
+2024-12-11 00:20:32,680 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:20:32,681 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.01)
+2024-12-11 00:20:32,691 | TradingBot | INFO | Next check time: 2024-12-11 00:21:32
+2024-12-11 00:21:34,304 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:21:34,305 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: -0.00)
+2024-12-11 00:21:34,314 | TradingBot | INFO | Next check time: 2024-12-11 00:22:34
+2024-12-11 00:22:36,114 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:22:36,114 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.01)
+2024-12-11 00:22:36,126 | TradingBot | INFO | Next check time: 2024-12-11 00:23:36
+2024-12-11 00:23:37,638 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:23:37,639 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.00)
+2024-12-11 00:23:37,647 | TradingBot | INFO | Next check time: 2024-12-11 00:24:37
+2024-12-11 00:24:40,003 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:24:40,003 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.00)
+2024-12-11 00:24:40,012 | TradingBot | INFO | Next check time: 2024-12-11 00:25:40
+2024-12-11 00:25:41,687 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:25:41,688 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.01)
+2024-12-11 00:25:41,697 | TradingBot | INFO | Next check time: 2024-12-11 00:26:41
+2024-12-11 00:26:43,176 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:26:43,177 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:26:43,186 | TradingBot | INFO | Next check time: 2024-12-11 00:27:43
+2024-12-11 00:27:44,710 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:27:44,711 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.05)
+2024-12-11 00:27:44,719 | TradingBot | INFO | Next check time: 2024-12-11 00:28:44
+2024-12-11 00:28:46,196 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:28:46,197 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.07)
+2024-12-11 00:28:46,206 | TradingBot | INFO | Next check time: 2024-12-11 00:29:46
+2024-12-11 00:29:47,776 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:29:47,777 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.08)
+2024-12-11 00:29:47,785 | TradingBot | INFO | Next check time: 2024-12-11 00:30:47
+2024-12-11 00:30:49,629 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:30:49,630 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.08)
+2024-12-11 00:30:49,638 | TradingBot | INFO | Next check time: 2024-12-11 00:31:49
+2024-12-11 00:31:51,119 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:31:51,120 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.10)
+2024-12-11 00:31:51,128 | TradingBot | INFO | Next check time: 2024-12-11 00:32:51
+2024-12-11 00:32:52,888 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:32:52,889 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.10)
+2024-12-11 00:32:52,898 | TradingBot | INFO | Next check time: 2024-12-11 00:33:52
+2024-12-11 00:33:54,745 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:33:54,746 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.08)
+2024-12-11 00:33:54,755 | TradingBot | INFO | Next check time: 2024-12-11 00:34:54
+2024-12-11 00:34:56,322 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:34:56,322 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.06)
+2024-12-11 00:34:56,333 | TradingBot | INFO | Next check time: 2024-12-11 00:35:56
+2024-12-11 00:35:57,919 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:35:57,919 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.06)
+2024-12-11 00:35:57,931 | TradingBot | INFO | Next check time: 2024-12-11 00:36:57
+2024-12-11 00:36:59,556 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:36:59,557 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.05)
+2024-12-11 00:36:59,564 | TradingBot | INFO | Next check time: 2024-12-11 00:37:59
+2024-12-11 00:38:01,055 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:38:01,056 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:38:01,066 | TradingBot | INFO | Next check time: 2024-12-11 00:39:01
+2024-12-11 00:39:02,924 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:39:02,925 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.04)
+2024-12-11 00:39:02,935 | TradingBot | INFO | Next check time: 2024-12-11 00:40:02
+2024-12-11 00:40:04,726 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:40:04,727 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:40:04,735 | TradingBot | INFO | Next check time: 2024-12-11 00:41:04
+2024-12-11 00:41:13,806 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:41:13,806 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.02)
+2024-12-11 00:41:13,816 | TradingBot | INFO | Next check time: 2024-12-11 00:42:13
+2024-12-11 00:42:15,738 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:42:15,739 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.01)
+2024-12-11 00:42:15,748 | TradingBot | INFO | Next check time: 2024-12-11 00:43:15
+2024-12-11 00:43:17,286 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:43:17,286 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.01)
+2024-12-11 00:43:17,296 | TradingBot | INFO | Next check time: 2024-12-11 00:44:17
+2024-12-11 00:44:19,002 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:44:19,003 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.00)
+2024-12-11 00:44:19,011 | TradingBot | INFO | Next check time: 2024-12-11 00:45:19
+2024-12-11 00:45:20,541 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:45:20,541 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.01)
+2024-12-11 00:45:20,553 | TradingBot | INFO | Next check time: 2024-12-11 00:46:20
+2024-12-11 00:46:22,043 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:46:22,043 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.02)
+2024-12-11 00:46:22,054 | TradingBot | INFO | Next check time: 2024-12-11 00:47:22
+2024-12-11 00:47:23,593 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:47:23,594 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.02)
+2024-12-11 00:47:23,603 | TradingBot | INFO | Next check time: 2024-12-11 00:48:23
+2024-12-11 00:48:25,117 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:48:25,118 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.01)
+2024-12-11 00:48:25,128 | TradingBot | INFO | Next check time: 2024-12-11 00:49:25
+2024-12-11 00:49:26,628 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:49:26,629 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.02)
+2024-12-11 00:49:26,638 | TradingBot | INFO | Next check time: 2024-12-11 00:50:26
+2024-12-11 00:50:28,090 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:50:28,091 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:50:28,099 | TradingBot | INFO | Next check time: 2024-12-11 00:51:28
+2024-12-11 00:51:30,509 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:51:30,509 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.01)
+2024-12-11 00:51:30,519 | TradingBot | INFO | Next check time: 2024-12-11 00:52:30
+2024-12-11 00:52:32,035 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:52:32,035 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.02)
+2024-12-11 00:52:32,045 | TradingBot | INFO | Next check time: 2024-12-11 00:53:32
+2024-12-11 00:53:34,377 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:53:34,378 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:53:34,387 | TradingBot | INFO | Next check time: 2024-12-11 00:54:34
+2024-12-11 00:54:35,849 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:54:35,849 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 00:54:35,858 | TradingBot | INFO | Next check time: 2024-12-11 00:55:35
+2024-12-11 00:55:38,161 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:55:38,162 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.05)
+2024-12-11 00:55:38,171 | TradingBot | INFO | Next check time: 2024-12-11 00:56:38
+2024-12-11 00:56:39,614 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:56:39,615 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.05)
+2024-12-11 00:56:39,622 | TradingBot | INFO | Next check time: 2024-12-11 00:57:39
+2024-12-11 00:57:41,970 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:57:41,971 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.02)
+2024-12-11 00:57:41,980 | TradingBot | INFO | Next check time: 2024-12-11 00:58:41
+2024-12-11 00:58:43,416 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:58:43,417 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.02)
+2024-12-11 00:58:43,426 | TradingBot | INFO | Next check time: 2024-12-11 00:59:43
+2024-12-11 00:59:44,895 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 00:59:44,895 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.01)
+2024-12-11 00:59:44,903 | TradingBot | INFO | Next check time: 2024-12-11 01:00:44
+2024-12-11 01:00:46,456 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 01:00:46,457 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.03)
+2024-12-11 01:00:46,466 | TradingBot | INFO | Next check time: 2024-12-11 01:01:46
+2024-12-11 01:01:48,287 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 01:01:48,288 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.04)
+2024-12-11 01:01:48,297 | TradingBot | INFO | Next check time: 2024-12-11 01:02:48
+2024-12-11 01:02:49,919 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 01:02:49,919 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.04)
+2024-12-11 01:02:49,927 | TradingBot | INFO | Next check time: 2024-12-11 01:03:49
+2024-12-11 01:03:58,275 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 01:03:58,276 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.04)
+2024-12-11 01:03:58,285 | TradingBot | INFO | Next check time: 2024-12-11 01:04:58
+2024-12-11 01:04:59,809 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 01:04:59,810 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.04)
+2024-12-11 01:04:59,823 | TradingBot | INFO | Next check time: 2024-12-11 01:05:59
+2024-12-11 01:05:41,759 | TradingBot | ERROR | Market analysis failed: asyncio.run() cannot be called from a running event loop
+2024-12-11 01:05:41,760 | TradingBot | ERROR | Error in trading iteration: asyncio.run() cannot be called from a running event loop
+2024-12-11 01:05:41,760 | TradingBot | ERROR | Unexpected error (ID: 20241211010541-244d5340): asyncio.run() cannot be called from a running event loop
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 58, in analyze_market_conditions
+    signals, market_condition = analyze_multiple_timeframes(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\signal_generator.py", line 231, in analyze_multiple_timeframes
+    return asyncio.run(analyze_multiple_timeframes_async(symbol, timeframes, config))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 186, in run
+    raise RuntimeError(
+RuntimeError: asyncio.run() cannot be called from a running event loop
+2024-12-11 01:08:24,531 | TradingBot | ERROR | Market analysis failed: asyncio.run() cannot be called from a running event loop
+2024-12-11 01:08:24,532 | TradingBot | ERROR | Error in trading iteration: asyncio.run() cannot be called from a running event loop
+2024-12-11 01:08:24,534 | TradingBot | ERROR | Unexpected error (ID: 20241211010824-56727995): asyncio.run() cannot be called from a running event loop
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 58, in analyze_market_conditions
+    signals, market_condition = analyze_multiple_timeframes(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\signal_generator.py", line 231, in analyze_multiple_timeframes
+    return asyncio.run(analyze_multiple_timeframes_async(symbol, timeframes, config))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 186, in run
+    raise RuntimeError(
+RuntimeError: asyncio.run() cannot be called from a running event loop
+2024-12-11 01:09:24,560 | TradingBot | ERROR | Market analysis failed: asyncio.run() cannot be called from a running event loop
+2024-12-11 01:09:24,561 | TradingBot | ERROR | Error in trading iteration: asyncio.run() cannot be called from a running event loop
+2024-12-11 01:09:24,561 | TradingBot | ERROR | Unexpected error (ID: 20241211010924-0cff6b43): asyncio.run() cannot be called from a running event loop
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 58, in analyze_market_conditions
+    signals, market_condition = analyze_multiple_timeframes(
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\signal_generator.py", line 231, in analyze_multiple_timeframes
+    return asyncio.run(analyze_multiple_timeframes_async(symbol, timeframes, config))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\runners.py", line 186, in run
+    raise RuntimeError(
+RuntimeError: asyncio.run() cannot be called from a running event loop
+2024-12-11 01:10:26,404 | TradingBot | ERROR | Market analysis failed: cannot unpack non-iterable coroutine object
+2024-12-11 01:10:26,406 | TradingBot | ERROR | Error in trading iteration: cannot unpack non-iterable coroutine object
+2024-12-11 01:10:26,407 | TradingBot | ERROR | Unexpected error (ID: 20241211011026-ada1088b): cannot unpack non-iterable coroutine object
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 58, in analyze_market_conditions
+    signals, market_condition = analyze_multiple_timeframes(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable coroutine object
+2024-12-11 01:11:26,410 | TradingBot | ERROR | Market analysis failed: cannot unpack non-iterable coroutine object
+2024-12-11 01:11:26,412 | TradingBot | ERROR | Error in trading iteration: cannot unpack non-iterable coroutine object
+2024-12-11 01:11:26,412 | TradingBot | ERROR | Unexpected error (ID: 20241211011126-406e7c0c): cannot unpack non-iterable coroutine object
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 58, in analyze_market_conditions
+    signals, market_condition = analyze_multiple_timeframes(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable coroutine object
+2024-12-11 01:11:58,995 | TradingBot | ERROR | Market analysis failed: Cannot run the event loop while another loop is running
+2024-12-11 01:11:58,995 | TradingBot | ERROR | Error in trading iteration: Cannot run the event loop while another loop is running
+2024-12-11 01:11:58,997 | TradingBot | ERROR | Unexpected error (ID: 20241211011158-673d1cee): Cannot run the event loop while another loop is running
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 63, in analyze_market_conditions
+    current_price = get_current_price(client, SYMBOL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\data_fetcher.py", line 93, in get_current_price
+    result = loop.run_until_complete(get_current_price_async(symbol))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 629, in run_until_complete
+    self._check_running()
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 590, in _check_running
+    raise RuntimeError(
+RuntimeError: Cannot run the event loop while another loop is running
+2024-12-11 01:12:59,015 | TradingBot | ERROR | Market analysis failed: Cannot run the event loop while another loop is running
+2024-12-11 01:12:59,016 | TradingBot | ERROR | Error in trading iteration: Cannot run the event loop while another loop is running
+2024-12-11 01:12:59,017 | TradingBot | ERROR | Unexpected error (ID: 20241211011259-bcb4b910): Cannot run the event loop while another loop is running
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 63, in analyze_market_conditions
+    current_price = get_current_price(client, SYMBOL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\data_fetcher.py", line 93, in get_current_price
+    result = loop.run_until_complete(get_current_price_async(symbol))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 629, in run_until_complete
+    self._check_running()
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 590, in _check_running
+    raise RuntimeError(
+RuntimeError: Cannot run the event loop while another loop is running
+2024-12-11 01:13:59,022 | TradingBot | ERROR | Market analysis failed: Cannot run the event loop while another loop is running
+2024-12-11 01:13:59,023 | TradingBot | ERROR | Error in trading iteration: Cannot run the event loop while another loop is running
+2024-12-11 01:13:59,024 | TradingBot | ERROR | Unexpected error (ID: 20241211011359-d9041bbc): Cannot run the event loop while another loop is running
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 63, in analyze_market_conditions
+    current_price = get_current_price(client, SYMBOL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\data_fetcher.py", line 93, in get_current_price
+    result = loop.run_until_complete(get_current_price_async(symbol))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 629, in run_until_complete
+    self._check_running()
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 590, in _check_running
+    raise RuntimeError(
+RuntimeError: Cannot run the event loop while another loop is running
+2024-12-11 01:14:59,028 | TradingBot | ERROR | Market analysis failed: Cannot run the event loop while another loop is running
+2024-12-11 01:14:59,029 | TradingBot | ERROR | Error in trading iteration: Cannot run the event loop while another loop is running
+2024-12-11 01:14:59,029 | TradingBot | ERROR | Unexpected error (ID: 20241211011459-fe3dd510): Cannot run the event loop while another loop is running
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 63, in analyze_market_conditions
+    current_price = get_current_price(client, SYMBOL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\data_fetcher.py", line 93, in get_current_price
+    result = loop.run_until_complete(get_current_price_async(symbol))
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 629, in run_until_complete
+    self._check_running()
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 590, in _check_running
+    raise RuntimeError(
+RuntimeError: Cannot run the event loop while another loop is running
+2024-12-11 01:15:59,034 | TradingBot | ERROR | Market analysis failed: Cannot run the event loop while another loop is running
+2024-12-11 01:15:59,035 | TradingBot | ERROR | Error in trading iteration: Cannot run the event loop while another loop is running
+2024-12-11 01:15:59,035 | TradingBot | ERROR | Unexpected error (ID: 20241211011559-5ce6a213): Cannot run the event loop while another loop is running
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 63, in analyze_market_conditions
+    current_price = await get_current_price(client, SYMBOL)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\data_fetcher.py", line 93, in get_current_price
+    """Get historical klines/candlestick data"""
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 629, in run_until_complete
+    self._check_running()
+  File "C:\Users\berka\AppData\Local\Programs\Python\Python311\Lib\asyncio\base_events.py", line 590, in _check_running
+    raise RuntimeError(
+RuntimeError: Cannot run the event loop while another loop is running
+2024-12-11 01:16:04,705 | TradingBot | ERROR | Market analysis failed: Could not fetch current price
+2024-12-11 01:16:04,706 | TradingBot | ERROR | Error in trading iteration: Could not fetch current price
+2024-12-11 01:16:04,706 | TradingBot | ERROR | Unexpected error (ID: 20241211011604-57e96cc3): Could not fetch current price
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 65, in analyze_market_conditions
+    raise DataFetchError("Could not fetch current price")
+exceptions.DataFetchError: Could not fetch current price
+2024-12-11 01:16:32,133 | TradingBot | ERROR | Market analysis failed: object function can't be used in 'await' expression
+2024-12-11 01:16:32,133 | TradingBot | ERROR | Error in trading iteration: object function can't be used in 'await' expression
+2024-12-11 01:16:32,135 | TradingBot | ERROR | Unexpected error (ID: 20241211011632-e29ada05): object function can't be used in 'await' expression
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 59, in analyze_market_conditions
+    client, SYMBOL, TIMEFRAMES, await get_historical_data, config
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object function can't be used in 'await' expression
+2024-12-11 01:17:27,989 | TradingBot | ERROR | Unexpected error (ID: 20241211011727-407f300c): cannot unpack non-iterable coroutine object
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = run_trading_iteration(
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable coroutine object
+2024-12-11 01:17:43,621 | TradingBot | ERROR | Market analysis failed: object function can't be used in 'await' expression
+2024-12-11 01:17:43,621 | TradingBot | ERROR | Error in trading iteration: object function can't be used in 'await' expression
+2024-12-11 01:17:43,622 | TradingBot | ERROR | Unexpected error (ID: 20241211011743-0a6ffbea): object function can't be used in 'await' expression
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 59, in analyze_market_conditions
+    client, SYMBOL, TIMEFRAMES, await get_historical_data, config
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object function can't be used in 'await' expression
+2024-12-11 01:18:43,626 | TradingBot | ERROR | Market analysis failed: object function can't be used in 'await' expression
+2024-12-11 01:18:43,627 | TradingBot | ERROR | Error in trading iteration: object function can't be used in 'await' expression
+2024-12-11 01:18:43,627 | TradingBot | ERROR | Unexpected error (ID: 20241211011843-eb0d25f3): object function can't be used in 'await' expression
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 59, in analyze_market_conditions
+    client, SYMBOL, TIMEFRAMES, await get_historical_data, config
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: object function can't be used in 'await' expression
+2024-12-11 01:19:37,970 | TradingBot | ERROR | Market analysis failed: Could not fetch current price
+2024-12-11 01:19:37,972 | TradingBot | ERROR | Error in trading iteration: Could not fetch current price
+2024-12-11 01:19:37,972 | TradingBot | ERROR | Unexpected error (ID: 20241211011936-2f0bc60e): Could not fetch current price
+Traceback (most recent call last):
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 187, in run_bot
+    balance, current_position, last_trade_time = await run_trading_iteration(
+                                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 123, in run_trading_iteration
+    market_data = await analyze_market_conditions(client, config, request_id, news_analyzer)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\berka\OneDrive\Masaüstü\V2Bot\main.py", line 65, in analyze_market_conditions
+    raise DataFetchError("Could not fetch current price")
+exceptions.DataFetchError: Could not fetch current price
+2024-12-11 01:20:44,808 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 01:20:44,809 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: -0.00)
+2024-12-11 01:20:44,819 | TradingBot | INFO | Next check time: 2024-12-11 01:21:44
+2024-12-11 01:21:52,512 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 01:21:52,513 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: -0.02)
+2024-12-11 01:21:52,523 | TradingBot | INFO | Next check time: 2024-12-11 01:22:52
+2024-12-11 01:23:00,197 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 01:23:00,199 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: 0.00)
+2024-12-11 01:23:00,208 | TradingBot | INFO | Next check time: 2024-12-11 01:24:00
+2024-12-11 01:24:07,952 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 01:24:07,953 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: -0.00)
+2024-12-11 01:24:07,968 | TradingBot | INFO | Next check time: 2024-12-11 01:25:07
+2024-12-11 01:25:14,163 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 01:25:14,164 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: -0.00)
+2024-12-11 01:25:14,175 | TradingBot | INFO | Next check time: 2024-12-11 01:26:14
+2024-12-11 01:26:21,886 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 01:26:21,887 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: -0.01)
+2024-12-11 01:26:21,899 | TradingBot | INFO | Next check time: 2024-12-11 01:27:21
+2024-12-11 01:27:30,026 | TradingBot | INFO | Trade status: First trade - no cooling period applied
+2024-12-11 01:27:30,028 | TradingBot | INFO | Signal not strong enough. No trade executed. (Signal: -0.01)
+2024-12-11 01:27:30,039 | TradingBot | INFO | Next check time: 2024-12-11 01:28:30

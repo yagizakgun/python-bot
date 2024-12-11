@@ -1,0 +1,2 @@
+timestamp,request_id,current_price,combined_signal,market_condition,market_structure_trend,market_structure_volatility,market_structure_volume,volatility,atr,balance_usd,balance_btc,total_balance_usd,position_side,position_quantity,position_average_price,position_profit_loss,stop_loss,take_profit
+2024-12-11T01:27:30.037662,20241211012721-92002a56,96684.43,-0.0066,ranging,"direction=bearish,strength=0.010797877621170474",value=0.0114,value=614.61,0.011397,1101.87,10000.00,0.00000000,10000.00,,0,0,,,
