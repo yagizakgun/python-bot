@@ -11,6 +11,22 @@ import ta
 from binance import AsyncClient
 from indicators import calculate_indicators
 
+
+# Create a global Binance client instance
+_binance_client = None
+
+async def _create_binance_client():
+    global _binance_client
+    try:
+        _binance_client = await AsyncClient.create()
+    except Exception as e:
+        logger.error(f"Error creating Binance client: {e}")
+
+async def _close_binance_client():
+    global _binance_client
+    if _binance_client:
+        await _binance_client.close_connection()
+
 logger = logging.getLogger(__name__)
 
 # Windows-specific event loop policy
@@ -84,21 +100,17 @@ async def get_current_price_async(symbol):
 async def get_current_price(client, symbol: str) -> float:
     """Get current price for a symbol"""
     
-    # Prioritize using the Binance client
-    async_client = await AsyncClient.create()  
-    try: 
-        ticker = await async_client.get_symbol_ticker(symbol=symbol)
-        await async_client.close_connection() 
+    global _binance_client
+    try:
+        ticker = await _binance_client.get_symbol_ticker(symbol=symbol)
         return float(ticker['price'])
     except BinanceAPIException as e:
         logger.error(f"Binance API error fetching current price for {symbol}: {e}")
     except Exception as e:
-        logger.error(f"Unexpected error fetching current price for {symbol} using Binance client: {e}")
-    finally:
-        await async_client.close_connection() 
+        logger.error(f"Unexpected error fetching current price for {symbol}: {e}")
 
     # Fallback to aiohttp if Binance client fails
-    return await get_current_price_async(symbol) 
+    return await get_current_price_async(symbol)
 
 async def get_historical_data(client, symbol: str, interval: str) -> pd.DataFrame:
     """Get historical klines/candlestick data"""
@@ -141,3 +153,8 @@ async def get_historical_data(client, symbol: str, interval: str) -> pd.DataFram
         logger.error(f"Error fetching historical data for {symbol} {interval}: {e}")
         return pd.DataFrame()  # Return empty DataFrame on error
 
+# Create the Binance client when the module is imported
+asyncio.run(_create_binance_client())
+
+# Close the client when the script exits
+import atexit; atexit.register(lambda: asyncio.run(_close_binance_client()))
